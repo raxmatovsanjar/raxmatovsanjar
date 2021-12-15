@@ -27,7 +27,7 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/koka-nice-0479a9204'> <img width = '100px' align= 'center' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-<a href="https://t.me/newsanj"><img width = '100px' align= 'center' alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/raxmatovsanjar"><img width = '100px' align= 'center' alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href = 'https://www.upwork.com/freelancers/~01c5242d3e319ebbd9'> <img width = '90px' align= 'center' src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white"/></a> 
 <a href = 'https://sanjaar.github.io/portfolio/'> <img width = '90px' align= 'center' src="https://img.shields.io/badge/Portfolio-E4405F?style=for-the-badge&logoColor=white"/></a>
   
