@@ -2,7 +2,7 @@
 <p align='center'>
 </p>
 
-<div size='20px'> Hi! My name is Sanjar.
+<div size='20px'> Hi! My name is Raxmatov Sanjar.
   I am a front-end developer, I'm a Competitive Programmer, I also like to create projects in Vue/Nuxt.
   Thank You for taking the time to view my GitHub Profile :smile:
 </div>
