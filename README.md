@@ -17,7 +17,7 @@
 - 🌱  I’m currently learning Gsap, ThreeJs and a little Design. 
 - 💰  Looking for new clients and try to work as a freelance developer.
 - 💬  Ask me about anything, I am happy to help.
-- 📫 How to reach me: @1 or @1.
+- 📫 How to reach me: [@sanjar](https://t.me/raxmatovsanjar) or [@sanjar](https://www.linkedin.com/in/raxmatovsanjar').
 - 👀 Looking Forward to contribute more to open source projects.
 - 📝 [Resume](https://drive.google.com/file/d/1gd4_RYD63nUVqyXh1akKE_8VuP3k4m6B/view?usp=sharing)
 
@@ -63,8 +63,8 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 </div>
   
   <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/main/github-contribution-grid-snake.svg)
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
+  ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/master/github-contribution-grid-snake.svg)
+  <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
 <br>
 
 <hr> 
