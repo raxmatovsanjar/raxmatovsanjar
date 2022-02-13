@@ -3,7 +3,7 @@
 </p>
 
 <div size='20px'> Hi! My name is Raxmatov Sanjar.
-  I am a front-end developer, I'm a Competitive Programmer, I also like to create projects in Vue/Nuxt.
+  I am a front-end developer from Tashkent, Uzbekistan. I'm currently working [@UIC Group](https://uic.group/) as a Font-End engineer. I'm a Competitive Programmer, I also like   to create projects in Vue/Nuxt.
   Thank you for taking the time to view my GitHub Profile :smile:
 </div>
 
@@ -17,7 +17,7 @@
 - 🌱  I’m currently learning Gsap, ThreeJs and a little Design. 
 - 💰  Looking for new clients and try to work as a freelance developer.
 - 💬  Ask me about anything, I am happy to help.
-- 📫 How to reach me: [@sanjar](https://t.me/raxmatovsanjar) or [@sanjar](https://www.linkedin.com/in/raxmatovsanjar').
+- 📫 How to reach me: [@sanjar](https://t.me/raxmatovsanjar) or [@raxmatovsanjar](https://www.linkedin.com/in/raxmatovsanjar).
 - 👀 Looking Forward to contribute more to open source projects.
 - 📝 [Resume](https://drive.google.com/file/d/1gd4_RYD63nUVqyXh1akKE_8VuP3k4m6B/view?usp=sharing)
 
