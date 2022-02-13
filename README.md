@@ -17,6 +17,8 @@
 - 🌱  I’m currently learning Gsap, ThreeJs and a little Design. 
 - 💰  Looking for new clients and try to work as a freelance developer.
 - 💬  Ask me about anything, I am happy to help.
+- 📫 How to reach me: @norjs or @norbekov.
+- 👀 Looking Forward to contribute more to open source projects.
 - 📝 [Resume](https://drive.google.com/file/d/1gd4_RYD63nUVqyXh1akKE_8VuP3k4m6B/view?usp=sharing)
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
