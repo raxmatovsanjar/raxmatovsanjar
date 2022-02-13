@@ -3,7 +3,7 @@
 </p>
 
 <div size='20px'> Hi! My name is Raxmatov Sanjar.
-  I am a front-end developer from Tashkent, Uzbekistan. I'm currently working [@UIC Group](https://uic.group/) as a Font-End engineer. I'm a Competitive Programmer, I also like   to create projects in Vue/Nuxt.
+  I am a front-end developer from Tashkent, Uzbekistan. I'm currently working [@uicgroup](https://uic.group/) as a Font-End developer. I'm a Competitive Programmer, I also like   to create projects in Vue/Nuxt.
   Thank you for taking the time to view my GitHub Profile :smile:
 </div>
 
