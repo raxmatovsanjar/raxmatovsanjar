@@ -43,12 +43,6 @@
 <a target="_blank" href="https://t.me/raxmatovsanjar"><img width = '100px' align= 'center' alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a target="_blank" href = 'https://www.upwork.com/freelancers/~01c5242d3e319ebbd9'> <img width = '90px' align= 'center' src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
 <a target="_blank" href="https://uic.group/uz/portfolio?category=4"><img width = '90px' align= 'center' src="https://img.shields.io/badge/Portfolio-FF7F50?style=for-the-badge&logo=portfolio&logoColor=white"/></a><br><br>
-<details>
-  <summary>
-    Portfolio
-  </summary>  
-  undefined
-</details>
   
   <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
   ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/master/github-contribution-grid-snake.svg)
