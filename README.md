@@ -27,7 +27,7 @@
 - 🌱  I’m currently core js, more Typescript and a little CSGO. 
 - 💰  Looking for new clients and try to work as a freelance developer.
 - 💬  Ask me about anything, I am happy to help.
-- 📫 How to reach me: [@sanjar](https://t.me/raxmatovsanjar) or [@raxmatovsanjar](https://www.linkedin.com/in/raxmatovsanjar).
+- 📫 How to reach me: [@raxmatovsanjar](https://t.me/raxmatovsanjar) or [@raxmatovsanjar](https://www.linkedin.com/in/raxmatovsanjar).
 - 👀 Looking Forward to contribute more to open source projects.
 - 📝 [Resume](https://standardresume.co/r/raxmatovsanjar)
 
@@ -77,12 +77,12 @@
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
 
 <p>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sanjaar&show_icons=true&include_all_commits=true&theme=onedark" alt="Sanjar's github stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=raxmatovsanjar&show_icons=true&include_all_commits=true&theme=onedark" alt="Sanjar's github stats" />
 </p>
 
 <p>
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sanjaar&layout=compact&theme=onedark" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=raxmatovsanjar&layout=compact&theme=onedark" />
 </p>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
