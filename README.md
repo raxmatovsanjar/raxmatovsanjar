@@ -67,9 +67,6 @@
 <a target="_blank" href='https://www.upwork.com/freelancers/~01c5242d3e319ebbd9'>
   <img width='100' align='center' src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white"/>
 </a>
-<a target="_blank" href="https://uic.group/uz/portfolio?category=4">
-  <img width='100' align='center' src="https://img.shields.io/badge/Portfolio-FF7F50?style=for-the-badge&logo=portfolio&logoColor=white"/>
-</a>
 <br><br>
   
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
