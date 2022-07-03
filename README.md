@@ -7,7 +7,7 @@
 
 <div size='20px'>
   Hi! My name is Raxmatov Sanjar.
-  I am a front-end developer from Tashkent, Uzbekistan. I'm currently working <a href='https://uic.group/'>@uicgroup</a> as a Font-End developer. I'm a Competitive       Programmer, I also like   to create projects in Nuxtjs/React/Vue. Thank you for taking the time to view my GitHub Profile :smile:
+  I am a front-end developer from Tashkent, Uzbekistan. I'm currently working as a Font-End developer. I'm a Competitive Programmer, I also like   to create projects in Nuxtjs/React/Vue. Thank you for taking the time to view my GitHub Profile :smile:
 </div>
 
 <div>
