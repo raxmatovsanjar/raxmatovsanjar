@@ -7,7 +7,7 @@
 
 <div size='20px'>
   Hi! My name is Raxmatov Sanjar.
-  I am a front-end developer from Tashkent, Uzbekistan. I'm currently working as a Font-End developer. I'm a Competitive Programmer, I also like   to create projects in Nuxtjs/React/Vue. Thank you for taking the time to view my GitHub Profile :smile:
+  I am a front-end developer from Tashkent, Uzbekistan. I'm currently working as a Font-End developer. I'm a Competitive Programmer, I also like   to create projects in React/Vue. Thank you for taking the time to view my GitHub Profile :smile:
 </div>
 
 <div>
@@ -63,9 +63,6 @@
 </a> 
 <a target="_blank" href="https://t.me/raxmatovsanjar">
   <img width='100' align='center' alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-<a target="_blank" href='https://www.upwork.com/freelancers/~01c5242d3e319ebbd9'>
-  <img width='100' align='center' src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white"/>
 </a>
 <br><br>
   
