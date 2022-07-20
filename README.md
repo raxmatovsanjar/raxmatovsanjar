@@ -24,7 +24,7 @@
 <img align="right" width="300" alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 - 👨🏽‍💻  I’m currently working on something cool :wink:.
-- 🌱  I’m currently core js, more Typescript and a little CSGO. 
+- 🌱  I’m currently learning more core js, Typescript and practicing CSGO, typing. 
 - 💰  Looking for new clients and try to work as a freelance developer.
 - 💬  Ask me about anything, I am happy to help.
 - 📫 How to reach me: [@raxmatovsanjar](https://t.me/raxmatovsanjar) or [@raxmatovsanjar](https://www.linkedin.com/in/raxmatovsanjar).
