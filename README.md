@@ -29,7 +29,7 @@
 - 💬  Ask me about anything, I am happy to help.
 - 📫 How to reach me: [@raxmatovsanjar](https://t.me/raxmatovsanjar) or [@raxmatovsanjar](https://www.linkedin.com/in/raxmatovsanjar).
 - 👀 Looking Forward to contribute more to open source projects.
-- 📝 [Resume](https://www.cakeresume.com/sanjar-raxmatov)
+- 📝 [Resume](https://drive.google.com/file/d/1PPoVCDSXElTZK3fSM0bbJ6LOLwGkyEYf/view)
 
 <h2> 
   Skills
